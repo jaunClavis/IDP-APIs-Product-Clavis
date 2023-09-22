@@ -1,1 +1,1 @@
-# IDP-APIs-Product-Clavis
+# IDP-APIs-Clavis
